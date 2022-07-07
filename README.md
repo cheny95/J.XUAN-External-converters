@@ -24,8 +24,13 @@ external_converters:
 ### 小米多模接入的方式
 1. 小米多模的zigbee文件名必须是xiaomi_gateway3.py
 2. 目录
+
+
 ![image](https://user-images.githubusercontent.com/6293952/177709293-7864217f-1d67-42df-aca1-d488c825ee42.png)
-多模配对方式
+
+3. 多模配对方式
+
+
 ![image](https://user-images.githubusercontent.com/6293952/177709333-6c636690-7b25-4ccf-897a-e2679dccc018.png)
 
 #### 以上是2种方式，选一个适合你的方式就行。不必两个一起用。
