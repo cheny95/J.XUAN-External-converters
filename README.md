@@ -1,6 +1,8 @@
 # J.XUAN-External-converters
 京鱼座智能家居套装外部转换器
 
+![yaofan](https://user-images.githubusercontent.com/6293952/196037499-17ef6aec-9fe4-4fc2-a4ac-811a12bfb380.jpg)
+
 ### 食用方法一：
 1. 先将设备在zigbee2mqtt中配对
 2. 将jingxuan.js放入home assistant目录，放入后完整路径为：/config/zigbee2mqtt/jingxuan.js
